@@ -2,5 +2,5 @@ Hello Git
 Hello from both branches
 This is a feature branch change.
 This is a change from feature2
-Pushing new changes to GitHub
+Pushing new changes to test merge
 Editing from GitHub
