@@ -3,3 +3,4 @@ Learning git step by step
 This is a feature branch change.
 This is a change from feature2
 Pushing new changes to GitHub
+Editing from GitHub
